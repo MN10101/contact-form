@@ -38,10 +38,7 @@ This is a simple contact form application built with Java Spring Boot and Thymel
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# Contact Form Application
 
 ## Author
 
